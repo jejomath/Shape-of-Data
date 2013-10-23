@@ -7,4 +7,6 @@ loadiris.py is from the post "Case study 1: Iris"
 
 loadcensus.py is from the post "Case study 2: Tokens in census data"
 
+loadspam.py is from the post "Case study 3: Free form text"
+
 [1]: http://shapeofdata.wordpress.com 
