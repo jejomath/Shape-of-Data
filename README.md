@@ -9,4 +9,6 @@ loadcensus.py is from the post "Case study 2: Tokens in census data"
 
 loadspam.py is from the post "Case study 3: Free form text"
 
+loadrobot.py is from the post "Case study 4: Resonance and Robots"
+
 [1]: http://shapeofdata.wordpress.com 
